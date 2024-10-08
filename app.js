@@ -1,3 +1,5 @@
+import React from "react";
+import ReactDom from 'react-dom';
 const heading = React.createElement(
   "div",
   {
